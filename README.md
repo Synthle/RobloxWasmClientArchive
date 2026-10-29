@@ -1,3 +1,3 @@
 # Roblox WebClient Archive
 
-archive containing all current and previous roblox webclients. may die at some point, release thing might change, sure hope it doesnt.
+Versioned WebClient captures are published as GitHub Releases. See [RELEASES.md](RELEASES.md) for a version-sorted index.
