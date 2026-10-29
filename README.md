@@ -1,3 +1,3 @@
 # Roblox WebClient Archive
 
-This github contains each and every Roblox web client. 
+Versioned WebClient captures are published as GitHub Releases. See [RELEASES.md](RELEASES.md) for a version-sorted index.
